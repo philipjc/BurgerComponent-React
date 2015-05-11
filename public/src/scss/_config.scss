@@ -1,0 +1,17 @@
+$b-primary-color: rgba(4, 99, 128, 1);
+$b-complement-color: #fff; // toggle color
+$b-height: 60px; // burger menu height and width
+$b-margin: 30px; // the margin for burger menu edge
+$b-bun-width: 24px; // the width of bun lines
+$b-bun-height: 2px; // thickness of bun line
+$b-transition: all .4s ease; // burger transitions
+$b-font-size: 24px;
+$b-font-weight: 300;
+$b-font-stack: Helvetica Neue, Helvetica, Sans-Serif;
+$b-line-height: ($b-height / 2 - ($b-font-size / 2.8)); // aligning centers brand to menu
+$b-txt-pad: 30px; // padding on both brand and links
+$b-txt-pad-top: ($b-margin + $b-height + $b-txt-pad); // margin for first link element
+$b-bun-width-half: ($b-bun-width / 2); // bun width used for calculation
+$b-pad-left: ($b-height / 2 - $b-bun-width-half - 2); // Horiz centers bun in menu
+$b-pad-top: ($b-height / 2 - $b-bun-width-half); // Vert centers bun in menu
+$header: #61dafb;
