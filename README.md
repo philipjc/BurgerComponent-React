@@ -1,1 +1,1 @@
-A React Component built with my React Starter kit. An animated burger icon with slide in navigation.
+An animated burger icon with slide in navigation built with React and my ES6 React Starter kit. .
